@@ -1,2 +1,1 @@
-# HeyTawk-homepage
-Homepage for HeyTawk, probably not a Discord clone (sure)
+# made by rina @ https://rina.work
